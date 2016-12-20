@@ -1,0 +1,17 @@
+ @import "bootstrap-sprockets";
+ @import "bootstrap";
+
+ /*****
+ @import "font-awesome"
+ *****/
+
+ /**Layouts - Page layout styles**/
+ /*****
+ @import "layouts/_flash.scss"
+ @import "layouts/_footer.scss"
+ @import "layouts/_header.scss"
+ @import "layouts/_shim.scss"
+ *****/
+ 
+@import "layouts/_header.scss";
+@import "layouts/_footer.scss";

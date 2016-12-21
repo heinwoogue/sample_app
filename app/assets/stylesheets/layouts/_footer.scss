@@ -1,16 +1,17 @@
 /* footer */
-footer {
+.footer {
 	margin-top: 45px;
 	padding-top: 5px;
 	border-top: 1px solid #eaeaea;
 	background-color: green;
+	color: white;
 
 	a {
-		color: #555;
+		color: white;
 	}
 
 	a:hover {
-		color: #222;
+		color: white;
 	}
 
 	small {
@@ -23,6 +24,7 @@ footer {
 
 		li {
 			float: left;
+			color: white;
 			margin-left: 15px;
 		}
 	}
